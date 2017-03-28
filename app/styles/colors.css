@@ -1,0 +1,57 @@
+.black {
+  color: rgba(255, 255, 255, .87);
+  background: rgba(0, 0, 0, .87 );
+}
+.black:hover {
+  background: rgba(0, 0, 0, 1 );
+}
+.white {
+  color: rgba(255, 255, 255, .87);
+  background: rgba(255, 255, 255, .87);
+}
+.white:hover {
+  background: rgba(255, 255, 255, 1 );
+}
+.blue {
+  color: rgba(255, 255, 255, .87);
+  background: rgba(0, 0, 255, .87);
+}
+.blue:hover {
+  background: rgba(0, 0, 255, 1 );
+}
+.red {
+  color: rgba(255, 255, 255, .87);
+  background: rgba(255, 0, 0, .78);
+}
+.red:hover {
+  background: rgba(255, 0, 0, 1 );
+}
+
+.yellow {
+  color: rgba(255, 255, 255, .87);
+  background: rgba(255, 255, 0, .87);
+}
+.yellow:hover {
+  background: rgba(255, 255, 0, 1 );
+}
+.green {
+  color: rgba(255, 255, 255, .33);
+  background: rgba(0, 255, 0, .87);
+}
+.green:hover {
+  background: rgba(0, 255, 0, 1 );
+}
+.orange {
+  color: rgba(255, 255, 255, .33);
+  background: rgba(255, 153, 0, .78);
+}
+.orange:hover {
+  background: rgba(255, 153, 0, 1 );
+}
+.purple {
+  color: rgba(255, 255, 255, .33);
+  background: rgba(101, 51, 153, .87);
+}
+.purple:hover {
+  background: rgba(101, 51, 153, 1 );
+}

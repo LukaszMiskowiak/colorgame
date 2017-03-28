@@ -1,0 +1,18 @@
+.appear-enter {
+  transition-duration: .1s;
+  transition-property: opacity;
+  transition-timing-function: ease-out;
+  opacity: 0;
+}
+
+.appear-enter.appear-enter-active {
+  opacity: .5;
+}
+
+.appear-leave {
+  opacity: 0;
+}
+.background {
+  background-color: black;
+  background: transparent;
+}
